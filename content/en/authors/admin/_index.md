@@ -1,38 +1,38 @@
 ---
 # Display name
-title: Рытов Алексей Константинович
+title: Rytov Aleksey Konstantinovich
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Студент факультета Физико-математических и естественных наук
+role: Student of the Faculty of Physics, Mathematics and Natural Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Российский университет дружбы народов
+  - name: Peoples' Friendship University of Russia (RUDN University)
     url: https://www.rudn.ru/
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # Interests to show in About widget
 interests:
-  - ИИ
-  - Математическое моделирование
+  - AI
+  - Math modeling
 
 # Education to show in About widget
 education:
   courses:
-    - course: Фундаментальная инфоматика и информационные технологии
-      institution: РУДН
+    - course: Fundamental Informatics and Information Technology
+      institution: RUDN University
       year: 2022
 
-    - course: Среденее образование
-      institution: ГБОУ Школа №1534
+    - course: Secondary education
+      institution: School №1534
       year: 2016 - 2021
 
-    - course: Среденее образование
-      institution: ГБОУ Школа №17
+    - course: Secondary education
+      institution: School №17
       year: 2010 - 2016
 
 # Social/Academic Networking
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Рытов Алексей Константинович является студентом факультета физико-математических наук. Его научные интересы относятся к точным наукам.
+Rytov Aleksey Konstantinovich is a student of the Faculty of Physical and Mathematical Sciences. His scientific interests relate to the exact sciences.
 
